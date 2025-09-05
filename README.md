@@ -6,3 +6,5 @@ Module 1: Assignment-Linux and GIT Command Cheat Sheet
 1. cd
 2. ls
 3. mkdir
+4. rmdir
+
