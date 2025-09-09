@@ -17,3 +17,4 @@ Module 1: Assignment-Linux and GIT Command Cheat Sheet
 10. git init
 11. git status
 12. git checkout
+13. git commit
