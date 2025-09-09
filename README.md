@@ -19,3 +19,4 @@ Module 1: Assignment-Linux and GIT Command Cheat Sheet
 12. git checkout
 13. git commit
 14. git rebase
+15. git branch
