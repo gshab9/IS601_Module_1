@@ -14,3 +14,4 @@ Module 1: Assignment-Linux and GIT Command Cheat Sheet
 
 ## Git Commands
 9. git add
+10. git init
