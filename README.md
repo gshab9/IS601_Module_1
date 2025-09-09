@@ -1,4 +1,3 @@
-
 # IS601_Module_1
 Module 1: Assignment-Linux and GIT Command Cheat Sheet
 
@@ -10,3 +9,5 @@ Module 1: Assignment-Linux and GIT Command Cheat Sheet
 4. rmdir
 5. rm
 6. touch
+7. cp
+
