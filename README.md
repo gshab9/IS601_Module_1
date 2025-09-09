@@ -11,3 +11,6 @@ Module 1: Assignment-Linux and GIT Command Cheat Sheet
 6. touch
 7. cp
 8. mv
+
+## Git Commands
+9. git add
